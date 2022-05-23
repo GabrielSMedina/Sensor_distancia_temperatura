@@ -1,6 +1,6 @@
 # Sensor_distancia_temperatura
 
-Um pequeno projeto que visa aumentar a precisão de um sensor de distância HC-SR04 acoplando um sensor de temperatura. A ideia é que sabendo a temperatura do ambiente possamos modificar a equação de conversão do Echo para distância, trocando a velocidade do som de 340 m/s para a velocidade do som real naquele momento.
+Um pequeno projeto que visa aumentar a precisão de um sensor de ultrassônico(de distância) HC-SR04 acoplando um sensor de temperatura. A ideia é que sabendo a temperatura do ambiente possamos modificar a equação de conversão do Echo para distância, trocando a velocidade do som de 340 m/s para a velocidade do som real naquele momento.
 
 ## Circuito
 
