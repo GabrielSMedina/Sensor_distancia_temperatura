@@ -1,5 +1,5 @@
 /*
-  Bote a temperatura do sensor em 20 graus para ter maior precisao
+  Caso esteja utilizando algum software de simulação, determine a temperatura do sensor em 20 graus para ter maior precisao
 */
 
 // Pinos
